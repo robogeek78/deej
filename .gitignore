@@ -12,3 +12,9 @@ releases/
 *.bin
 logs/
 preferences.yaml
+/Hardware/DeejWithKeypad/__Previews
+/Hardware/DeejWithKeypad/History
+/Hardware/DeejBusinessCard/History
+/Hardware/DeejWithKeypad/Output Files
+/Hardware/DeejBusinessCard/Project Logs for DeejBusinessCard
+/Hardware/DeejWithKeypad/Project Logs for DeejWithKeypad
